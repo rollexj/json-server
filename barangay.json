@@ -1,0 +1,16 @@
+{
+  "barangay": [
+    {
+      "title": "Barangay 1",
+      "value": "1"
+    },
+    {
+      "title": "Barangay 2",
+      "value": "2"
+    },
+    {
+      "title": "Barangay 3",
+      "value": "3"
+    }
+  ]
+}
